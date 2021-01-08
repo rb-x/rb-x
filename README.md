@@ -11,7 +11,7 @@
   </div>
    <br/><br/>
    <p align="center">
-    Passionated, IT security Student @ESGI Paris, Aspriring Pentester
+    Passionated IT security Student @ESGI Paris, Aspriring Pentester
    </p>
    
    <p align="center">
